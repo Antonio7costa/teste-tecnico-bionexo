@@ -1,0 +1,4 @@
+/vendor
+*.db
+chromedriver-linux64/
+chrome-linux64/
